@@ -2,6 +2,8 @@
 
 基于DCT-Net：用于肖像风格化的Android应用程序
 
+使用 tensorflow-lite 移动gpu进行硬件加速
+
 下载链接：https://github.com/ZTMIDGO/Anime/releases/download/V1/app-debug.apk
 
 参考：
